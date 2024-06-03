@@ -1,0 +1,32 @@
+nav{
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/774/118/desktop-wallpaper-abstract-dark-red-logo-design-on-black-background-video-animation-black-background-design.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 99vh;
+}
+.ab{
+    margin: auto;
+    width: 230px;
+    
+}
+.p{
+    margin: auto;
+    width: 307px;
+    text-align: center;
+}
+.navbar{
+    cursor: pointer;
+    
+    color: white;
+    padding: 6px;
+    margin-top: 20px;
+}
+
+.navbar:hover {
+    
+    transition: all 1s ease-in-out;
+    color:rgb(248, 201, 201) ;
+    outline: 1px solid white;
+    border-radius: 2px;
+}

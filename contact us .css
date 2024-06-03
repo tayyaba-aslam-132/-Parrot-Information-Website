@@ -1,0 +1,35 @@
+.divform{
+    margin: auto;
+    border: 1px solid white;
+    width: 850px;
+    margin-top: 150px;
+    
+    box-shadow:  5px 5px 20px gray;
+}
+.diva{
+    border-top: 2px solid black ;
+    width: 130px;
+}
+.inp{
+    border: 1px solid grey;
+    width: 300px;
+}
+.inp:hover{
+    box-shadow:  3px 5px 10px rgb(48, 5, 5);
+    transition: all 1s ease-in-out;
+}
+::placeholder{
+    color: grey;
+}
+.button {
+    border: 1px solid grey;
+    background-color: rgb(182, 179, 179);
+    width: 100px;
+}
+button:hover{
+    box-shadow: 2px 5px 10px rgb(48, 5, 5);
+    transition: all 2s ease-in-out;
+    color:rgb(48, 5, 5) ;
+    outline: 1px solid rgb(45, 5, 5);
+    border-radius: 2px;
+}
